@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "development_and_release": {
+      "parameters": [
+        "codebase_health",
+        "development_environment",
+        "automated_testing_health",
+        "frictionless_release_health"
+      ]
+    }
+  }
+}

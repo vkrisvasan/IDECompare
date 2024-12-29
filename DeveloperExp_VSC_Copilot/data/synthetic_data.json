@@ -1,0 +1,137 @@
+{
+    "Team_1": {
+        "jira": 79,
+        "git": 74,
+        "sonar": 85,
+        "semgrep": 83,
+        "snyk": 72,
+        "developer_survey": 60,
+        "dora_metrics": 56
+    },
+    "Team_2": {
+        "jira": 54,
+        "git": 72,
+        "sonar": 66,
+        "semgrep": 76,
+        "snyk": 61,
+        "developer_survey": 88,
+        "dora_metrics": 85
+    },
+    "Team_3": {
+        "jira": 51,
+        "git": 64,
+        "sonar": 52,
+        "semgrep": 73,
+        "snyk": 63,
+        "developer_survey": 58,
+        "dora_metrics": 53
+    },
+    "Team_4": {
+        "jira": 83,
+        "git": 82,
+        "sonar": 76,
+        "semgrep": 85,
+        "snyk": 61,
+        "developer_survey": 68,
+        "dora_metrics": 88
+    },
+    "Team_5": {
+        "jira": 66,
+        "git": 83,
+        "sonar": 82,
+        "semgrep": 89,
+        "snyk": 58,
+        "developer_survey": 97,
+        "dora_metrics": 69
+    },
+    "Team_6": {
+        "jira": 98,
+        "git": 52,
+        "sonar": 72,
+        "semgrep": 68,
+        "snyk": 85,
+        "developer_survey": 86,
+        "dora_metrics": 88
+    },
+    "Team_7": {
+        "jira": 76,
+        "git": 64,
+        "sonar": 53,
+        "semgrep": 99,
+        "snyk": 67,
+        "developer_survey": 69,
+        "dora_metrics": 99
+    },
+    "Team_8": {
+        "jira": 67,
+        "git": 66,
+        "sonar": 53,
+        "semgrep": 86,
+        "snyk": 55,
+        "developer_survey": 100,
+        "dora_metrics": 62
+    },
+    "Team_9": {
+        "jira": 53,
+        "git": 59,
+        "sonar": 68,
+        "semgrep": 58,
+        "snyk": 66,
+        "developer_survey": 62,
+        "dora_metrics": 80
+    },
+    "Team_10": {
+        "jira": 100,
+        "git": 91,
+        "sonar": 68,
+        "semgrep": 73,
+        "snyk": 94,
+        "developer_survey": 79,
+        "dora_metrics": 92
+    },
+    "Team_11": {
+        "jira": 92,
+        "git": 84,
+        "sonar": 75,
+        "semgrep": 93,
+        "snyk": 71,
+        "developer_survey": 53,
+        "dora_metrics": 80
+    },
+    "Team_12": {
+        "jira": 85,
+        "git": 61,
+        "sonar": 57,
+        "semgrep": 64,
+        "snyk": 65,
+        "developer_survey": 76,
+        "dora_metrics": 73
+    },
+    "Team_13": {
+        "jira": 93,
+        "git": 68,
+        "sonar": 97,
+        "semgrep": 81,
+        "snyk": 67,
+        "developer_survey": 78,
+        "dora_metrics": 60
+    },
+    "Team_14": {
+        "jira": 90,
+        "git": 52,
+        "sonar": 65,
+        "semgrep": 99,
+        "snyk": 93,
+        "developer_survey": 64,
+        "dora_metrics": 93
+    },
+    "Team_15": {
+        "jira": 91,
+        "git": 95,
+        "sonar": 75,
+        "semgrep": 100,
+        "snyk": 81,
+        "developer_survey": 84,
+        "dora_metrics": 67
+    }
+}
