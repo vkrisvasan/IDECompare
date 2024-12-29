@@ -1,0 +1,24 @@
+{
+  "Development and Release": {
+    "parameters": {
+      "codebase_health": {
+        "description": "Measures the quality and maintainability of the codebase."
+      },
+      "developer_tools": {
+        "description": "Satisfaction with developer tools and CI/CD pipeline efficiency."
+      },
+      "automated_testing_health": {
+        "description": "Coverage and robustness of automated testing, including test data and environment."
+      },
+      "frictionless_release": {
+        "description": "Efficiency and reliability of the release process."
+      }
+    },
+    "thresholds": {
+      "Elite": 90,
+      "High": 75,
+      "Medium": 50,
+      "Low": 0
+    }
+  }
+}
