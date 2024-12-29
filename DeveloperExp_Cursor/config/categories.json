@@ -1,0 +1,31 @@
+{
+    "categories": [
+      {
+        "name": "development and release",
+        "parameters": [
+          {
+            "name": "codebase health",
+            "metrics": ["sonar_code_smell_density", "semgrep_vulnerabilities", "snyk_vulnerabilities"]
+          },
+          {
+            "name": "development environment",
+            "metrics": ["developer_tool_satisfaction", "ci_cd_pipeline_efficiency"]
+          },
+          {
+            "name": "automated testing health",
+            "metrics": ["test_coverage", "test_environment_stability", "test_data_setup_efficiency"]
+          },
+          {
+            "name": "frictionless release health",
+            "metrics": ["deployment_frequency", "lead_time_for_changes", "change_failure_rate", "mean_time_to_recovery"]
+          }
+        ]
+      }
+    ],
+    "maturity_levels": {
+      "Elite": {"min_score": 80, "max_score": 100},
+      "High": {"min_score": 60, "max_score": 79},
+      "Medium": {"min_score": 40, "max_score": 59},
+      "Low": {"min_score": 0, "max_score": 39}
+    }
+  }
