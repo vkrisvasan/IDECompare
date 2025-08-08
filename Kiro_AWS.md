@@ -13,4 +13,5 @@ Steps to redeem the code:
 * Open a project - restricted vs full control - MCP servers can be enabled only if in full control mode
 Welcome to Kiro! Happy hacking.
 
-![Uploading image.png…]()
+<img width="2870" height="1568" alt="image" src="https://github.com/user-attachments/assets/77210684-dc9c-4be5-b1b3-ea3cdfe83d9a" />
+
